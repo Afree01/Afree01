@@ -41,4 +41,4 @@ Backend developer dengan pengalaman mengembangkan dan mengoptimalkan API serta l
 <!-- Ganti/tambah link LinkedIn, Instagram, dll sesuai kebutuhan -->
 
 ---
-<p align="center"><i>📍 Asal Selayar, aktif di Jakarta · ⭐️ Terbuka untuk kolaborasi backend & security</i></p>
+<p align="center"><i>📍 Asal Selayar, aktif di Jakarta · ⭐️ Terbuka untuk kolaborasi pembangunan aplikasi, visualisasi data, IoT, dan machine learning</i></p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" />
