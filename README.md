@@ -28,12 +28,12 @@ Backend developer dengan pengalaman mengembangkan dan mengoptimalkan API serta l
 - **Deteksi Trending Topic Media Sosial** — Riset unsupervised topic detection dari data sosial media (SFPM vs GFeat-P), FastAPI + Vue 3 + PostgreSQL.
 
 🏛️ Pengalaman Proyek Pemerintah
-SP2KP — Sistem Pemantauan Pasar Kebutuhan Pokok, Kementerian Perdagangan (2021–2023)
-Business Intelligence (BI) — Kementerian Investasi/BKPM (2021–2022)
-Road Map Data dan Informasi — Kementerian Investasi/BKPM (2024)
-Masterplan Modest Fashion — Kementerian Koperasi dan UMKM (2024)
-SOP Data dan Informasi — Kementerian Investasi/BKPM (2025)
-Sistem Informasi Desa — Kementerian Desa dan Daerah Tertinggal (2025)
+- SP2KP — Sistem Pemantauan Pasar Kebutuhan Pokok, Kementerian Perdagangan (2021–2023)
+- Business Intelligence (BI) — Kementerian Investasi/BKPM (2021–2022)
+- Road Map Data dan Informasi — Kementerian Investasi/BKPM (2024)
+- Masterplan Modest Fashion — Kementerian Koperasi dan UMKM (2024)
+- SOP Data dan Informasi — Kementerian Investasi/BKPM (2025)
+- Sistem Informasi Desa — Kementerian Desa dan Daerah Tertinggal (2025)
 
 ### 📫 Hubungi Saya
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadafriadi0@gmail.com)
