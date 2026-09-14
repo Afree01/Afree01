@@ -38,7 +38,7 @@ Backend developer dengan pengalaman mengembangkan dan mengoptimalkan API serta l
 ### 📫 Hubungi Saya
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadafriadi0@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/afriadirahman_ahmad/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-afriadi-rahman-2b10a6401/))
+[![Linkedin](https://img.shields.io/badge/-Instagram-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-afriadi-rahman-2b10a6401/)
 <!-- Ganti/tambah link LinkedIn, Instagram, dll sesuai kebutuhan -->
 
 ---
